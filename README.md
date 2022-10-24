@@ -6,16 +6,18 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F275FD&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Interested in **Python, C, React**
-
-### I'm studying in 👨🏻‍💻42Seoul
+#### I'm studying in 👨🏻‍💻42Seoul
 [![yongmipa's 42 stats](https://badge42.vercel.app/api/v2/cl9mih8j600540gl02lqqamyx/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
-### 🎖️ Ranking
+## 💬 About me
+
+- I'm interested in **Python, C, React** 🖥
+
+#### 🎖️ Ranking
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oio337a)](https://solved.ac/oio337a)
 
-### 🛠️ Github Stats
+#### 🛠️ Github Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oio337a&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oio337a&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
