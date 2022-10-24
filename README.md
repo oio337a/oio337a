@@ -1,15 +1,14 @@
 ## Hi there 👋
-<div style="display:flex">
-  <a href="https://curvy-owl-b6d.notion.site/Hero-s-DLog-fb9532df534e42a2b2b8bffb40037e90" target="_blank">
-    <img src="https://img.shields.io/badge/NOTION-black?style=flat&logo=Notion&logoColor=#000000"/>
-  </a>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F275FD&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+<a href="https://curvy-owl-b6d.notion.site/Hero-s-DLog-fb9532df534e42a2b2b8bffb40037e90" target="_blank">
+  <img src="https://img.shields.io/badge/NOTION-black?style=flat&logo=Notion&logoColor=#000000"/>
+</a>
 
-### 👨🏻‍💻 42Seoul
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F275FD&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
 
+Interested in **Python, C, React**
 
+### I'm studying in 👨🏻‍💻42Seoul
 [![yongmipa's 42 stats](https://badge42.vercel.app/api/v2/cl9mih8j600540gl02lqqamyx/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
 ### 🎖️ Ranking
