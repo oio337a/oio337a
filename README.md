@@ -1,14 +1,12 @@
 ## Hi there 👋
-<p>
+<span>
   <a href="https://curvy-owl-b6d.notion.site/Hero-s-DLog-fb9532df534e42a2b2b8bffb40037e90" target="_blank">
     <img src="https://img.shields.io/badge/NOTION-black?style=flat&logo=Notion&logoColor=#000000"/>
   </a>
-  
+</span>
+<span>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F275FD&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
-</p>
+</span>
 
 ### 👨🏻‍💻 42Seoul
 
