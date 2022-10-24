@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div display=flex>
+<div style="display:flex">
   <a href="https://curvy-owl-b6d.notion.site/Hero-s-DLog-fb9532df534e42a2b2b8bffb40037e90" target="_blank">
     <img src="https://img.shields.io/badge/NOTION-black?style=flat&logo=Notion&logoColor=#000000"/>
   </a>
