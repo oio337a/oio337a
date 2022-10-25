@@ -7,7 +7,7 @@
 </a>
 </a> <a href="mailto:oio337a@gmail.com">
     <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oio337a@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
