@@ -15,11 +15,9 @@
 </div>
 
 #### I'm studying in 👨🏻‍💻42Seoul
-[![yongmipa's 42 stats](https://badge42.vercel.app/api/v2/cl9mih8j600540gl02lqqamyx/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
-
 ## 💬 About me
 
-- I'm interested in **Python, C, React** 🖥
+- I'm interested in **Python, C/C++, React/Next** 🖥
 
 #### 🎖️ Ranking
 
