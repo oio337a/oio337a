@@ -18,15 +18,8 @@
   <br>
   <span>
   <h3>📨 Contect Me 📞</h3>
-   <p>
-    👇👇👇👇👇👇
-    </p>
-  <a href="mailto:oio337a@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oio337a@gmail.com"
-        style="height : 30px; margin-left : 10px; margin-right : 10px;"/>
-</a>
-</span>
+  oio337a@naver.com
+  </span>
 </div>
 
 #### I'm studying in 👨🏻‍💻42Seoul
