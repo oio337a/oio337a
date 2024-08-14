@@ -1,30 +1,30 @@
-## 안녕하세요. 박용민 입니다. <br> Hi I'm yongmin 👋
-
-
+## 안녕하세요. 박용민 입니다.
 <div align="center">
+
+![waving](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&size=50&duration=3500&pause=7&color=FFA500&center=true&random=false&width=1000&height=100&lines=Welcome+to+Yongmin's+Github!)](https://git.io/typing-svg)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foio337a%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
   
   <span>
-  <h3>🗒️ Develop note 🗒️</h3>
+<!--   <h3>🗒️ Develop note 🗒️</h3>
     <p>
     👇👇👇👇👇👇
     </p>
 <a href="https://curvy-owl-b6d.notion.site/Hero-s-DLog-fb9532df534e42a2b2b8bffb40037e90" target="_blank">
   <img src="https://img.shields.io/badge/NOTION-black?style=flat&logo=Notion&logoColor=#000000"
        style="height : 30px; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> -->
   </span>
-  <br>
+<!--   <br> -->
   <span>
   <h3>📨 Contect Me 📞</h3>
   oio337a@naver.com
   </span>
 </div>
 
-#### I'm studying in 👨🏻‍💻42Seoul
 ## 💬 About me
-
+#### I'm studying in 👨🏻‍💻42Seoul
 - I'm interested in **Python, C/C++, React/Next** 🖥
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
