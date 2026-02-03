@@ -3,8 +3,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&size=50&duration=3500&pause=7&color=FFA500&center=true&random=false&width=1000&height=100&lines=Welcome+to+Yongmin's+Github!)](https://git.io/typing-svg)
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foio337a%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
+
   
   <span>
 <!--   <h3>🗒️ Develop note 🗒️</h3>
@@ -25,7 +24,7 @@
 
 ## 💬 About me
 #### I'm studying in 👨🏻‍💻42Seoul
-- I'm interested in **Python, C/C++, React/Next** 🖥
+- I'm interested in **React/Next** 🖥
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -68,11 +67,6 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oio337a)](https://solved.ac/oio337a)
 
-#### 🛠️ Github Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oio337a&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oio337a&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
 
 <!--
 **oio337a/oio337a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
